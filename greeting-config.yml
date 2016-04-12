@@ -1,7 +1,7 @@
 logging:
   level:
     io:
-      pivotal: INFO
+      pivotal: DEBUG
 security:
   basic:
     enabled: false # turn of securing our application endpoints
