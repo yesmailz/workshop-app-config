@@ -1,3 +1,7 @@
+logging:
+  level:
+    io:
+      pivotal: INFO
 security:
   basic:
     enabled: false # turn of securing our application endpoints
